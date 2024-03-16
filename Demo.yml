@@ -3,6 +3,7 @@ apiVersion: v1
 kind: Pod
 metadata:
   name: testpod
+  name: mypod
 spec:
   containers:
     - name: web-container
